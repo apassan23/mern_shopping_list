@@ -1,4 +1,0 @@
-{
-  "mongoURI": "mongodb+srv://phoenix622:abhishek1@testcluster1-eomps.mongodb.net/mern_shopping?retryWrites=true&w=majority",
-  "jwtSecret": "sl_myJwtSecret"
-}
